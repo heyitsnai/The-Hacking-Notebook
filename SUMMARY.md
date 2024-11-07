@@ -4,7 +4,7 @@
 
 ## Linux Privilege Escalation
 
-* [systemctl](<README (1).md>)
+* [systemctl](linux-privilege-escalation/systemctl.md)
 
 ## Web Exploitation
 

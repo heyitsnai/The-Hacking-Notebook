@@ -9,3 +9,4 @@
 ## Web Exploitation
 
 * [SSRF](web-exploitation/ssrf.md)
+* [XSS](web-exploitation/xss.md)
